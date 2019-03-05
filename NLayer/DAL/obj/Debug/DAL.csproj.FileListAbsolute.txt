@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\NLayer\DAL\bin\Debug\DAL.dll.config
+C:\Users\mypc\source\repos\NLayer\DAL\bin\Debug\DAL.dll
+C:\Users\mypc\source\repos\NLayer\DAL\bin\Debug\DAL.pdb
+C:\Users\mypc\source\repos\NLayer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\mypc\source\repos\NLayer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mypc\source\repos\NLayer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\mypc\source\repos\NLayer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mypc\source\repos\NLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\NLayer\DAL\obj\Debug\DAL.dll
+C:\Users\mypc\source\repos\NLayer\DAL\obj\Debug\DAL.pdb
